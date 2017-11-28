@@ -1,0 +1,2 @@
+# BerserkerSenpai
+BerserkerSenpai專案的網路空間
